@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ecommerceweb/static/css/main.5c9112e7.css",
-    "main.js": "/ecommerceweb/static/js/main.f43ea26d.js",
+    "main.js": "/ecommerceweb/static/js/main.1469d3b1.js",
     "static/media/Sea Blue Necklace Set.jpg": "/ecommerceweb/static/media/Sea Blue Necklace Set.ea4bbd5b1de6bcbb2e12.jpg",
     "index.html": "/ecommerceweb/index.html",
     "main.5c9112e7.css.map": "/ecommerceweb/static/css/main.5c9112e7.css.map",
-    "main.f43ea26d.js.map": "/ecommerceweb/static/js/main.f43ea26d.js.map"
+    "main.1469d3b1.js.map": "/ecommerceweb/static/js/main.1469d3b1.js.map"
   },
   "entrypoints": [
     "static/css/main.5c9112e7.css",
-    "static/js/main.f43ea26d.js"
+    "static/js/main.1469d3b1.js"
   ]
 }
