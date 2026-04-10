@@ -7,7 +7,7 @@ const products = [
         name: "Sea Blue Necklace Set",
         price: 200,
         description: "Elegant Sea Blue Necklace Set crafted by skilled artisans.",
-        image: {NecklaceSet}
+        image: NecklaceSet
     },
     {
         id: 2,
