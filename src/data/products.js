@@ -1,3 +1,4 @@
+import NecklaceSet from "../images/Jewellery/Sea Blue Necklace Set.jpg";
 const products = [
 
 
@@ -6,7 +7,7 @@ const products = [
         name: "Sea Blue Necklace Set",
         price: 200,
         description: "Elegant Sea Blue Necklace Set crafted by skilled artisans.",
-        image: "/images/Jewellery/Sea Blue Necklace Set.jpg"
+        image: {NecklaceSet}
     },
     {
         id: 2,
