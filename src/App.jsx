@@ -20,7 +20,7 @@ function App() {
 
       <div className="page-content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/ecommerceweb" element={<Home />} />
           <Route path="/products" element={<Products />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/about" element={<About />} />
