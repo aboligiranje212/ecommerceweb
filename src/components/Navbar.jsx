@@ -10,7 +10,7 @@ function Navbar() {
       <h2>SMARKET</h2>
 
       <ul>
-        <li><Link to="/">Home</Link></li>
+        <li><Link to="/ecommerceweb">Home</Link></li>
         <li><Link to="/products">Products</Link></li>
 
         
