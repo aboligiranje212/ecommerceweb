@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerceweb/static/css/main.5c9112e7.css",
-    "main.js": "/ecommerceweb/static/js/main.6d241ecb.js",
+    "main.js": "/ecommerceweb/static/js/main.d2cbf6be.js",
     "static/media/Nature.png": "/ecommerceweb/static/media/Nature.84a23653316b1c854efc.png",
     "static/media/Wall-E.png": "/ecommerceweb/static/media/Wall-E.e42db28844702a7231a6.png",
     "static/media/Minimalistic.png": "/ecommerceweb/static/media/Minimalistic.1de79add5daf04c12765.png",
@@ -16,10 +16,10 @@
     "static/media/Sea Blue Necklace Set.jpg": "/ecommerceweb/static/media/Sea Blue Necklace Set.ea4bbd5b1de6bcbb2e12.jpg",
     "index.html": "/ecommerceweb/index.html",
     "main.5c9112e7.css.map": "/ecommerceweb/static/css/main.5c9112e7.css.map",
-    "main.6d241ecb.js.map": "/ecommerceweb/static/js/main.6d241ecb.js.map"
+    "main.d2cbf6be.js.map": "/ecommerceweb/static/js/main.d2cbf6be.js.map"
   },
   "entrypoints": [
     "static/css/main.5c9112e7.css",
-    "static/js/main.6d241ecb.js"
+    "static/js/main.d2cbf6be.js"
   ]
 }
