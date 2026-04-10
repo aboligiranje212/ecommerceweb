@@ -1,4 +1,16 @@
 import NecklaceSet from "../images/Jewellery/Sea Blue Necklace Set.jpg";
+import AssortedBrownieBox from "../images/Baked Goods/AssortedBrownieBox of 6.jpg";
+import WallE from "../images/Paintings/Wall-E.png";
+import DarkChocolate from "../images/Baked Goods/DarkChocolateMoussePastry-1.png";
+import Abstractframeless from "../images/products/Abstract_frameless_wall_painting.webp";
+import Minimalistic from "../images/Paintings/Minimalistic.png";
+import Nature from "../images/Paintings/Nature.png";
+import PinkGreen from "../images/Jewellery/Pink-Green Flower bracelet.jpg";
+import RedVelvet from "../images/products/Red_Velvet_White_Chocolate_Chip_Cookies.webp";
+import MultiColorFlower from "../images/Jewellery/MultiColor Flower Earrings.jpg";
+import CookieBrownie from "../images/Baked Goods/CookieBrownie_1.jpg";
+import LongJhumke from "../images/Jewellery/Long Jhumke- White Pearl.jpg";
+
 const products = [
 
 
@@ -14,7 +26,7 @@ const products = [
         name: "AssortedBrownieBox of 6",
         price: 250,
         description: "Assorted Brownie Box of 6 with premium ingredients.",
-        image: "/images/Baked Goods/AssortedBrownieBox of 6.jpg"
+        image: AssortedBrownieBox
 
     },
     {
@@ -22,7 +34,7 @@ const products = [
         name: "Wall-E Canvas Painting",
         price: 350,
         description: "Minimalist line art painting suitable for modern interiors.",
-        image: "/images/Paintings/Wall-E.png"
+        image: WallE
 
     },
     {
@@ -30,7 +42,7 @@ const products = [
         name: "Dark Chocolate Mousse Pastry",
         price: 150,
         description: "Rich and creamy handmade Chocolate Mousse Pastry.",
-        image: "/images/Baked Goods/DarkChocolateMoussePastry-Square.webp"
+        image: DarkChocolate
 
     },
 
@@ -39,28 +51,28 @@ const products = [
         name: "Abstract Frameless Wall Painting",
         price: 500,
         description: "Modern abstract frameless wall painting for home décor.",
-        image: "/images/products/Abstract_frameless_wall_painting.webp"
+        image: Abstractframeless
     },
     {
         id: 6,
         name: "Minimalistic Canvas Painting",
         price: 350,
         description: "Hand-painted Minimalistic canvas artwork by local artists.",
-        image: "/images/Paintings/Minimalistic.png"
+        image: Minimalistic
     },
     {
         id: 7,
         name: "Nature Painting",
         price: 270,
         description: "Beautiful hand-painted nature artwork inspired by nature.",
-        image: "/images/Paintings/Nature.png"
+        image: Nature
     },
     {
         id: 8,
         name: "Pink-Green Flower Bracelet",
         price: 150,
         description: "Handcrafted Flower Bracelet with chic design.",
-        image: "/images/Jewellery/Pink-Green Flower bracelet.jpg"
+        image: PinkGreen
     },
 
     {
@@ -68,28 +80,28 @@ const products = [
         name: "Red Velvet White Chocolate Chip Cookies",
         price: 250,
         description: "Freshly baked red velvet cookies with white chocolate chips.",
-        image: "/images/products/Red_Velvet_White_Chocolate_Chip_Cookies.webp"
+        image: RedVelvet
     },
     {
         id: 10,
         name: "MultiColor Flower Earrings",
         price: 120,
         description: "Delicate handmade MultiColor Flower Earrings for everyday elegance.",
-        image: "/images/Jewellery/MultiColor Flower Earrings.jpg"
+        image: MultiColorFlower
     },
     {
         id: 11,
         name: "Cookie Brownie",
         price: 270,
         description: "Crispy homemade cookie brownie baked fresh in small batches.",
-        image: "/images/Baked Goods/CookieBrownie_1.jpg"
-    },
+        image: CookieBrownie
+        },
     {
         id: 12,
         name: "Jhumke- White Pearl",
         price: 250,
         description: "Traditional White Pearl Jhumke perfect for festive wear.",
-        image: "/images/Jewellery/Long Jhumke- White Pearl.jpg"
+        image: LongJhumke
     }
 ];
 
